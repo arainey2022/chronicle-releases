@@ -5,6 +5,15 @@
     <description>Chronicle updates</description>
     <language>en</language>
     <item>
+      <title>Chronicle 0.1.22</title>
+      <pubDate>Wed, 15 Jul 2026 12:35:32 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Version label in QuickSettings; drop browser-domains row from onboarding</p>]]></description>
+      <enclosure url="https://github.com/arainey2022/chronicle-releases/releases/download/v0.1.22/Chronicle-0.1.22.dmg" type="application/octet-stream" sparkle:edSignature="/nFFkD16ik7Bmo538eYvGsnCUdGRmQJx8214dikSTOi7WfDCMI+ja1gFCvz3ucAriV6GZUm5SQH/v7xpBVj9Cw==" length="5910635"/>
+    </item>
+    <item>
       <title>Chronicle 0.1.18</title>
       <pubDate>Wed, 15 Jul 2026 08:46:05 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
