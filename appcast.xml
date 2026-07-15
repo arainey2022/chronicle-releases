@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Chronicle</title>
+    <description>Chronicle updates</description>
+    <language>en</language>
+    <item>
+      <title>Chronicle 0.1.18</title>
+      <pubDate>Wed, 15 Jul 2026 08:46:05 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>notarize.sh: re-sign Sparkle nested binaries; fail on notary rejection</p>]]></description>
+      <enclosure url="https://github.com/arainey2022/chronicle-releases/releases/download/v0.1.18/Chronicle-0.1.18.dmg" type="application/octet-stream" sparkle:edSignature="HQItNGsKwba0inC9mgIxP0+0nKlpgBBvX+dYMU9koPiXSwjOrbUBUmP/BGUYg3ZnstTYKLaHGmhc8TGqd+pfBw==" length="5976345"/>
+    </item>
+  </channel>
+</rss>
