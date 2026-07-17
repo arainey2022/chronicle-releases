@@ -5,6 +5,15 @@
     <description>Chronicle updates</description>
     <language>en</language>
     <item>
+      <title>Chronicle 0.1.25</title>
+      <pubDate>Fri, 17 Jul 2026 11:17:26 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fix data-loss on upgrade: never let the search-index build abort DB open</p>]]></description>
+      <enclosure url="https://github.com/arainey2022/chronicle-releases/releases/download/v0.1.25/Chronicle-0.1.25.dmg" type="application/octet-stream" sparkle:edSignature="ibA7qunO2Xu72LlG0wON/lNGn9gukatPUGlQdqdr/dNn/94CBY4G3Akn8SYZL1kTaRA5YNZ/MV+5gtvDVUPgDg==" length="5977837"/>
+    </item>
+    <item>
       <title>Chronicle 0.1.24</title>
       <pubDate>Fri, 17 Jul 2026 09:49:19 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
