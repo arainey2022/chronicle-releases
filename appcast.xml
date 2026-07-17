@@ -5,6 +5,15 @@
     <description>Chronicle updates</description>
     <language>en</language>
     <item>
+      <title>Chronicle 0.1.23</title>
+      <pubDate>Fri, 17 Jul 2026 08:02:07 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Activity Log search (FTS5), capture-trigger provenance, retitle dedup, activity summary; popout banner + publish cleanup</p>]]></description>
+      <enclosure url="https://github.com/arainey2022/chronicle-releases/releases/download/v0.1.23/Chronicle-0.1.23.dmg" type="application/octet-stream" sparkle:edSignature="0t1bQPFyibRDDuh8WkLvNEXr5dtjousNuAx1yuh0/wmK1xziI4t6P3f9AN/fxlwYk1H7YiucGrywCHUeto++Cw==" length="5958385"/>
+    </item>
+    <item>
       <title>Chronicle 0.1.22</title>
       <pubDate>Wed, 15 Jul 2026 12:35:32 GMT</pubDate>
       <sparkle:version>22</sparkle:version>
