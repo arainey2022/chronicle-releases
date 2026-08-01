@@ -5,6 +5,15 @@
     <description>Chronicle updates</description>
     <language>en</language>
     <item>
+      <title>Chronicle 0.1.29</title>
+      <pubDate>Sat, 01 Aug 2026 15:06:03 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>MCP: list_screenshots tool + resolvable absolute screenshot paths</p>]]></description>
+      <enclosure url="https://github.com/arainey2022/chronicle-releases/releases/download/v0.1.29/Chronicle-0.1.29.dmg" type="application/octet-stream" sparkle:edSignature="5FulTWtD4cFoBLqDHrZaLoApPP08dFYojAzEl/CnbPlyfOJADC4DHx/Nc570o4a/AXOY/2c4cgWntEgXANNVCg==" length="9668651"/>
+    </item>
+    <item>
       <title>Chronicle 0.1.28</title>
       <pubDate>Thu, 30 Jul 2026 18:36:39 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
